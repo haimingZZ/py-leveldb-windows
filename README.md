@@ -1,8 +1,8 @@
 # py-leveldb-windows
 A Visual Studio project to build leveldb python wrapper
 
-# compile using vs2017 and python 3.7 seems okay
-A Visual Studio project to build leveldb python wrapper
+# compile using vs2017 & python 3.7 & windows10
+seems okay full compiled commit in github
 
 ## Pre-built Binaries
 
