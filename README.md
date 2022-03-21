@@ -1,6 +1,9 @@
 # py-leveldb-windows
 A Visual Studio project to build leveldb python wrapper
 
+# compile using vs2017 and python 3.7 seems okay
+A Visual Studio project to build leveldb python wrapper
+
 ## Pre-built Binaries
 
 Python2.7: [Google Drive](https://drive.google.com/open?id=0B0OhXbSTAU1HcFBJUTNyczF6RjQ), [Baidu Yun](http://pan.baidu.com/s/1dE3FDHR)
